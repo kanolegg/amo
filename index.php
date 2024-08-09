@@ -167,7 +167,7 @@ if (!empty($_POST)) {
         window.onload = function(){
             setTimeout(function() {
                 $("#long").val(1)
-            }, 10000)
+            }, 30000)
         };
     </script>
   </body>
